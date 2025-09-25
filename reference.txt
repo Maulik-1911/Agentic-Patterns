@@ -1,0 +1,2 @@
+https://github.com/neural-maze/agentic-patterns-course/blob/main/src/agentic_patterns/multiagent_pattern/crew.py
+
